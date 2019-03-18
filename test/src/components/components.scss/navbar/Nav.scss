@@ -1,0 +1,13 @@
+.container-row {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+}
+
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+}
